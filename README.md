@@ -1,5 +1,5 @@
 ## Olá, sou Nicholas Miranda, Engenheiro da Computação e Analista de TI. 
-Atualmente, estou aprimorando minhas habilidades em C#.
+Atualmente estou aprimorando minhas habilidades em C#.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nickjasonsp&hide_title=false&hide_rank=false&=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />

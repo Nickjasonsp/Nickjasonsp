@@ -3,8 +3,7 @@ Atualmente estou aprimorando minhas habilidades em C#.
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Nickjasonsp&hide_title=false&hide_rank=false&=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Nickjasonsp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=nickjasonsp&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=ocean_dark&hide_border=false&order=2&token=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" height="150" alt="languages graph" />
 
 ###
 

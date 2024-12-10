@@ -1,6 +1,6 @@
 ## Olá, sou Nicholas Miranda, formado em Engenheira da Computação e Analista de TI. 
 Atualmente estou aprimorando minhas habilidades em C#.
-Tenho convivênvcia com SQL Server.
+Tenho convivência com SQL Server.
 
 <div align="center">
   <img 
